@@ -9,4 +9,7 @@ package com.yuan.util.string;
  */
 public class StringUtils {
 
+	public void t(){
+		
+	}
 }
